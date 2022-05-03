@@ -12,3 +12,7 @@ Basic Installation Guide:
 4. Open extracted folder and execute the file named 'SFML Atari.exe'.
 
 5. (Optional) Create a shortcut for 'SFML Atari.exe' to access the game from anywhere.
+
+NOTE:
+All files included are essential for the game to run properly.
+User-created levels will be saved under the folder 'SavedLevels'.
