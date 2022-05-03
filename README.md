@@ -7,8 +7,8 @@ Basic Installation Guide:
 
 2. Download project as ZIP file.
 
-3. Extract download ZIP file using a file archiver.
+3. Extract downloaded ZIP file using the file archiver.
 
-4. Open extracted folder and run the file name 'SFML Atari.exe'.
+4. Open extracted folder and execute the file named 'SFML Atari.exe'.
 
 5. (Optional) Create a shortcut for 'SFML Atari.exe' to access the game from anywhere.
