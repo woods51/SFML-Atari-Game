@@ -1,7 +1,7 @@
 # SFML-Atari-Game
 EXE Version. Senior project, a collection of two classic Atari titles with custom art and UI. Unique gameplay and features. Written in C++ and SFML.
 
-Instalaton Guide:
+Basic Installation Guide:
 
 1. Install a file archiver to decompress files, Winrar, 7-zip, etc.
 
