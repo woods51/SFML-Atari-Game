@@ -16,3 +16,7 @@ Basic Installation Guide:
 NOTE:
 All files included are essential for the game to run properly.
 User-created levels will be saved under the folder 'SavedLevels'.
+
+CONTROLS:
+Breakout: For movement, W and S keys (or left and right arrow keys)
+Pong: Player 1, W and S keys; Player 2, I and K keys.
