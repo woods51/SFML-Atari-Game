@@ -19,7 +19,7 @@ User-created levels will be saved under the folder 'SavedLevels'.
 
 CONTROLS:
 
-(Breakout) W and S keys, or left and right arrow keys for movement.
+(Breakout) A and D keys, or left and right arrow keys for movement.
 
 (Pong) W and S keys for Player 1, I and K keys for Player 2.
 
