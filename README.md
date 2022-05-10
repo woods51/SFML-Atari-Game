@@ -18,5 +18,9 @@ All files included are essential for the game to run properly.
 User-created levels will be saved under the folder 'SavedLevels'.
 
 CONTROLS:
-Breakout: For movement, W and S keys (or left and right arrow keys)
-Pong: Player 1, W and S keys; Player 2, I and K keys.
+
+(Breakout) W and S keys, or left and right arrow keys for movement.
+
+(Pong) W and S keys for Player 1, I and K keys for Player 2.
+
+(LevelEditor & UI) Use the left mouse button to nagivate and interact.
